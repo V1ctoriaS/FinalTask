@@ -1,0 +1,15 @@
+/Users/viktoriasyceva/Documents/final_task/task/bin/Debug/net7.0/task
+/Users/viktoriasyceva/Documents/final_task/task/bin/Debug/net7.0/task.deps.json
+/Users/viktoriasyceva/Documents/final_task/task/bin/Debug/net7.0/task.runtimeconfig.json
+/Users/viktoriasyceva/Documents/final_task/task/bin/Debug/net7.0/task.dll
+/Users/viktoriasyceva/Documents/final_task/task/bin/Debug/net7.0/task.pdb
+/Users/viktoriasyceva/Documents/final_task/task/obj/Debug/net7.0/task.csproj.AssemblyReference.cache
+/Users/viktoriasyceva/Documents/final_task/task/obj/Debug/net7.0/task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktoriasyceva/Documents/final_task/task/obj/Debug/net7.0/task.AssemblyInfoInputs.cache
+/Users/viktoriasyceva/Documents/final_task/task/obj/Debug/net7.0/task.AssemblyInfo.cs
+/Users/viktoriasyceva/Documents/final_task/task/obj/Debug/net7.0/task.csproj.CoreCompileInputs.cache
+/Users/viktoriasyceva/Documents/final_task/task/obj/Debug/net7.0/task.dll
+/Users/viktoriasyceva/Documents/final_task/task/obj/Debug/net7.0/refint/task.dll
+/Users/viktoriasyceva/Documents/final_task/task/obj/Debug/net7.0/task.pdb
+/Users/viktoriasyceva/Documents/final_task/task/obj/Debug/net7.0/task.genruntimeconfig.cache
+/Users/viktoriasyceva/Documents/final_task/task/obj/Debug/net7.0/ref/task.dll
